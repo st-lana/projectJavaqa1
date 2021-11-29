@@ -24,7 +24,7 @@ https://github.com/st-lana/projectJavaqa1/issues/1 >
 
 
 Тестирование производилось в следующем окружении:
-Ноутбук Asus X415JA-EK465T/WIN10 20H2/64 бит/
-Windows 10/Версия 20H2/Сборка ОС 19042.1348
-ПО JAVA_VERSION="11.0.12"/JAVA_VERSION_DATE="2021-07-20"/ 
-IntelliJ IDEA 2021.2.3 (Community Edition)/Build #IC-212.5457.46, built on October 12, 2021/Runtime version: 11.0.12+7-b1504.40 amd64/VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+* Ноутбук Asus X415JA-EK465T/WIN10 20H2/64 бит/
+* Windows 10/Версия 20H2/Сборка ОС 19042.1348
+* JAVA_VERSION="11.0.12"/JAVA_VERSION_DATE="2021-07-20"/ 
+* IntelliJ IDEA 2021.2.3 (Community Edition)/Build #IC-212.5457.46, built on October 12, 2021/Runtime version: 11.0.12+7-b1504.40 amd64/VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
